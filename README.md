@@ -17,4 +17,4 @@ Stworzenie interaktywnego dashboardu analizującego moje dane użytkowników apl
 - Dynamiczne wizualizacje 
 - Segmentacja danych
 
-Link do pobrania: [Pobierz .pbix](./Samsung%Health.pbix)
+Link do pobrania: [Pobierz .pbix](./Samsung_Health.pbix)
